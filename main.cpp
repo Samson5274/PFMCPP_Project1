@@ -52,84 +52,84 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: dog
+//  action 1: dog.bark();
 
-//  action 2:
+//  action 2: dog.sit();
 
-//  action 3:
+//  action 3: dog.fetch();
  
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: boat
+//  action 1: boat.sail();
 
-//  action 2:
+//  action 2: boat.dock();
 
-//  action 3:
+//  action 3: boat.honkHorn();
  
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: door
+//  action 1: door.open();
 
-//  action 2:
+//  action 2: door.close();
 
-//  action 3:
+//  action 3: door.lock();
  
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: snake
+//  action 1: snake.shedSkin();
 
-//  action 2:
+//  action 2: snake.eat();
 
-//  action 3:
+//  action 3: snake.hiss();
  
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: cloud
+//  action 1: cloud.rain();
 
-//  action 2:
+//  action 2: cloud.move();
 
-//  action 3:
+//  action 3: cloud.form();
  
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: carTire
+//  action 1: carTire.spin();
 
-//  action 2:
+//  action 2: carTire.inflate();
 
-//  action 3:
+//  action 3: carTire.deflate();
  
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: mechanic
+//  action 1: mechanic.changeOil();
 
-//  action 2:
+//  action 2: mechanic.fixTransmission();
 
-//  action 3:
+//  action 3: mechanic.billCustomer();
  
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: cableTester
+//  action 1: cableTester.turnOn();
 
-//  action 2:
+//  action 2: cableTester.turnOff();
 
-//  action 3:
+//  action 3: cableTester.testCable();
  
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: nurse
+//  action 1: nurse.fillIVBag();
 
-//  action 2:
+//  action 2: nurse.administerShot();
 
-//  action 3:
+//  action 3: nurse.deliverBaby();
  
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: baker
+//  action 1: baker.kneedDough();
 
-//  action 2:
+//  action 2: baker.turnOnOven();
 
-//  action 3:
+//  action 3: baker.cutLoaf();
  
 
 
