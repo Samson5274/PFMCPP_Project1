@@ -53,83 +53,113 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 //  1)
 //  Noun: dog
-//  action 1: dog.bark();
+//  action 1: the dog barks
+dog.bark();
 
-//  action 2: dog.sit();
+//  action 2: the dog sits
+dog.sit();
 
-//  action 3: dog.fetch();
+//  action 3: the dog fetches
+ dog.fetch();
  
 //  2)
 //  Noun: boat
-//  action 1: boat.sail();
+//  action 1: the boat sails
+boat.sail();
 
-//  action 2: boat.dock();
+//  action 2: the boat docks 
+boat.dock();
 
-//  action 3: boat.honkHorn();
+//  action 3: the boat honks its horn
+boat.honkHorn();
  
 //  3)
 //  Noun: door
-//  action 1: door.open();
+//  action 1: the door opens
+door.open();
 
-//  action 2: door.close();
+//  action 2: the door closes 
+door.close();
 
-//  action 3: door.lock();
+//  action 3: the door locks 
+door.lock();
  
 //  4)
 //  Noun: snake
-//  action 1: snake.shedSkin();
+//  action 1: the snake sheds its skin
+snake.shedSkin();
 
-//  action 2: snake.eat();
+//  action 2: the snake  eats
+snake.eat();
 
-//  action 3: snake.hiss();
+//  action 3: the snake  hisses
+snake.hiss();
  
 //  5)
 //  Noun: cloud
-//  action 1: cloud.rain();
+//  action 1: the cloud rains
+cloud.rain();
 
-//  action 2: cloud.move();
+//  action 2: the cloud moves 
+cloud.move();
 
-//  action 3: cloud.form();
+//  action 3: the cloud forms
+cloud.form();
  
 //  6)
 //  Noun: carTire
-//  action 1: carTire.spin();
+//  action 1: the car tire spins
+carTire.spin();
 
-//  action 2: carTire.inflate();
+//  action 2: the car tire inflates
+carTire.inflate();
 
-//  action 3: carTire.deflate();
+//  action 3: the car tire deflates
+carTire.deflate();
  
 //  7)
 //  Noun: mechanic
-//  action 1: mechanic.changeOil();
+//  action 1: the mechanic changes oil 
+mechanic.changeOil();
 
-//  action 2: mechanic.fixTransmission();
+//  action 2: the mechanic fixes a transmission 
+mechanic.fixTransmission();
 
-//  action 3: mechanic.billCustomer();
+//  action 3: the mechanic bills a customer
+ mechanic.billCustomer();
  
 //  8)
 //  Noun: cableTester
-//  action 1: cableTester.turnOn();
+//  action 1: the cable tester turns on
+cableTester.turnOn();
 
-//  action 2: cableTester.turnOff();
+//  action 2: the cable tester turns off
+cableTester.turnOff();
 
-//  action 3: cableTester.testCable();
+//  action 3: the cable tester tests a cable
+cableTester.testCable();
  
 //  9)
 //  Noun: nurse
-//  action 1: nurse.fillIVBag();
+//  action 1: the nurse fills an IV bag 
+nurse.fillIVBag();
 
-//  action 2: nurse.administerShot();
+//  action 2: the nurse administers a shot 
+nurse.administerShot();
 
-//  action 3: nurse.deliverBaby();
+//  action 3: the nurse delivers a baby 
+ nurse.deliverBaby();
  
 //  10)
 //  Noun: baker
-//  action 1: baker.kneedDough();
+//  action 1: the baker kneeds dough 
+ baker.kneedDough();
 
-//  action 2: baker.turnOnOven();
+//  action 2: the baker turns on the oven 
+ baker.turnOnOven();
 
-//  action 3: baker.cutLoaf();
+//  action 3: the baker cuts a loaf 
+baker.cutLoaf();
  
 
 
