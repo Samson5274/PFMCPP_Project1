@@ -52,84 +52,114 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: dog
+//  action 1: the dog barks
+dog.bark();
 
-//  action 2:
+//  action 2: the dog sits
+dog.sit();
 
-//  action 3:
+//  action 3: the dog fetches
+ dog.fetch();
  
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: boat
+//  action 1: the boat sails
+boat.sail();
 
-//  action 2:
+//  action 2: the boat docks 
+boat.dock();
 
-//  action 3:
+//  action 3: the boat honks its horn
+boat.honkHorn();
  
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: door
+//  action 1: the door opens
+door.open();
 
-//  action 2:
+//  action 2: the door closes 
+door.close();
 
-//  action 3:
+//  action 3: the door locks 
+door.lock();
  
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: snake
+//  action 1: the snake sheds its skin
+snake.shedSkin();
 
-//  action 2:
+//  action 2: the snake  eats
+snake.eat();
 
-//  action 3:
+//  action 3: the snake  hisses
+snake.hiss();
  
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: cloud
+//  action 1: the cloud rains
+cloud.rain();
 
-//  action 2:
+//  action 2: the cloud moves 
+cloud.move();
 
-//  action 3:
+//  action 3: the cloud forms
+cloud.form();
  
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: carTire
+//  action 1: the car tire spins
+carTire.spin();
 
-//  action 2:
+//  action 2: the car tire inflates
+carTire.inflate();
 
-//  action 3:
+//  action 3: the car tire deflates
+carTire.deflate();
  
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: mechanic
+//  action 1: the mechanic changes oil 
+mechanic.changeOil();
 
-//  action 2:
+//  action 2: the mechanic fixes a transmission 
+mechanic.fixTransmission();
 
-//  action 3:
+//  action 3: the mechanic bills a customer
+ mechanic.billCustomer();
  
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: cableTester
+//  action 1: the cable tester turns on
+cableTester.turnOn();
 
-//  action 2:
+//  action 2: the cable tester turns off
+cableTester.turnOff();
 
-//  action 3:
+//  action 3: the cable tester tests a cable
+cableTester.testCable();
  
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: nurse
+//  action 1: the nurse fills an IV bag 
+nurse.fillIVBag();
 
-//  action 2:
+//  action 2: the nurse administers a shot 
+nurse.administerShot();
 
-//  action 3:
+//  action 3: the nurse delivers a baby 
+ nurse.deliverBaby();
  
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: baker
+//  action 1: the baker kneeds dough 
+ baker.kneedDough();
 
-//  action 2:
+//  action 2: the baker turns on the oven 
+ baker.turnOnOven();
 
-//  action 3:
+//  action 3: the baker cuts a loaf 
+baker.cutLoaf();
  
 
 
@@ -146,7 +176,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
  send me a DM to review your pull request when the project is ready for review.
 
- Wait for my code review.
+ Wait for my code review. 
  */
 
 #include <iostream>
